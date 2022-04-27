@@ -34,11 +34,11 @@ SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
 SECRET_KEY_NAME = "private_201xxxxx164308.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://empqna.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-52-4-111-46.compute-1.amazonaws.com"
+DB_NAME = "d4a2mb84hk92d7"
+DB_USER = "kexgnnliycyaxo"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "d385a0d309f22c62eee12795bcce0af2c5e8c3693faa9ad13575016bf1834a68"
